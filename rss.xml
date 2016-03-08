@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Az óriás ölelése]]></title>
+        <description><![CDATA[Az óriás ölelése]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 07:12:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fba2f61-0a74-4c27-831f-946dae2d0316.jpg">]]></description>
+            <link>undefinede1d37991-7ba2-49d6-8c7c-cbe38afc8ba6/index.html</link>
+            <guid isPermaLink="false">e1d37991-7ba2-49d6-8c7c-cbe38afc8ba6</guid>
+            <pubDate>Tue, 08 Mar 2016 07:11:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
