@@ -1,7 +1,7 @@
 name: Az óriás ölelése
 favicon: null
-layout_spectrum: 0.3288652473129332
-typography_spectrum: 0.3579504336230457
+layout_spectrum: 0.95769
+typography_spectrum: 0.2911
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7416278712917119
+  brandStrength: 0.875
   lightness: 0.7755082927178591
   saturation: 0.8714382152538747
   rhythmicContrast: 0.8464500533882529
