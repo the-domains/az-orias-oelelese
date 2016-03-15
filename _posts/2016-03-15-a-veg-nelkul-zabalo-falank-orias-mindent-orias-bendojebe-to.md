@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'A vég nélkül zabáló, falánk óriás mindent óriás bendőjébe töm. A szegény emberek éheznek. Jancsi nekivág a sötét, ijesztő erdőnek, hogy síró kistestvére, és éhező családja számára találjon ennivalót...'
-datePublished: '2016-03-15T10:09:08.451Z'
-dateModified: '2016-03-15T10:08:54.596Z'
+datePublished: '2016-03-15T10:39:00.898Z'
+dateModified: '2016-03-15T10:30:14.274Z'
 title: ''
 author: []
 authors: []
